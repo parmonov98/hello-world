@@ -1,0 +1,8 @@
+{
+    "name": "acme/blog",
+    "license": "proprietary",
+    "type": "package",
+    "require": {
+        "acme/hello-world": "dev-master"
+    }
+}
